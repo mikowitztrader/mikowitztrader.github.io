@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Welcome to Compounding Self-Interest"
+date: 2020-02-23 01:00:44 -0500
+categories: trading welcome
+
+---
+
+Starting a new blog can be a daunting challenge. What if no one reads it? What if I lose interest? What if I run out of things to write about? What if people *do* read it but don’t like it (or, worse, don’t like me)?
+
+I’m an anxious person by nature, so lists like that can go on forever in my head. But there’s no growth without feeling like you’re trying something a little dangerous. I’ve been lucky enough to have been reminded of this three times in the past few days: by [Stephen Johnson](https://twitter.com/Jonk87), [Kim Ann Curtin](https://twitter.com/kimanncurtin), and the cross-stitch on the wall of my therapist’s office, which just says: “Courage Over Comfort”.
+
+So here I am.
+
+## And so who am I?
+
+My name is Michael Berkowitz. Right now I’m about three months into my trading journey, the last month and a half of which I’ve spent as a member of [StocksToTrade Pro](https://stockstotrade.com/pro) and [Pennystocking Silver](https://profit.ly/content/PennystockingSilver). About a year before that, I’d started getting interested in investing, and had downloaded the micro-investment app [Stash](https://get.stashinvest.com/michaeltx9li) on a bit of a whim. I quickly found myself drawn in by the idea of a potential passive income stream, and as someone who enjoys learning new things, I was hooked. I started by learning about investment strategies like Dollar Cost Averaging and Dividend Growth Investment, and how to do basic fundamental analysis. As I worked my way down this path, and started to see a decent return on my very small investments, I started wondering whether there were ways to grow my account a little bit faster. Eventually the YouTube algorithms led me to [Timothy Sykes](https://twitter.com/timothysykes), and the next phase of this journey kicked off.
+
+## Penny Stocks
+
+I was familiar with the concept of penny stocks, albeit only through _The Wolf of Wall Street_ and that one plot arc on _The Sopranos_ where Chris is running a boiler room. So when Tim Sykes starting popping up in my “Up Next” video queue, I was suspicious. But I was also curious, so I started watching.
+
+If you’re reading this blog, you probably already know about [Tim Sykes](https://www.timothysykes.com), but if you don’t, for now just know that on first look he has a lot in common with other over-the-top gurus: the pictures of him in flashy cars, or holding piles of cash, or trading poolside at a hotel on the Greek coast.
+
+But a few videos in, I got to one where he copped to it, saying that some of that is necessary marketing, because despite the fact that he’s opened hundreds of schools around the world, and is a massive supporter of environmental protection, people aren’t necessarily going to be drawn in by that stuff. People will be drawn in by the piles of cash and flashy cars.
+
+But having money is about more than just having the money. My grandfather was a huge believer in charity, and in fact told me once he was audited by the IRS multiple times because of how much charitable giving he was listing on his taxes. He was a remarkable guy with the kind of life someone could make a movie about, and I might write more about him some other time. But for our purposes here, seeing the real, important work that Tim’s doing was a lot more meaningful to me than the wads of cash. Not that I wouldn’t mind having some wads of cash, but I’m not just looking to be one of the “make bank bros” as Tim Bohen puts it.
+
+The other thing that made me trust Tim was that he was open about his doubters. Even more so, the fact that two people who had originally set out critical of his methods ([Michael Goode](https://twitter.com/goodetrades) and Stephen Johnson) are now successful students of his. And he’s not keeping everything behind subscription paywalls; he’s got tons of free videos on YouTube, and while they all end with a pitch for joining his paid services (I get it, that’s how marketing works), there’s so many videos, and so much good content in them, that you can learn a lot from Tim without paying a dollar.
+
+Which is what I did for a month. During that month, from Tim’s videos, I learned about his successful students, and started watching their videos too: [Tim Grittani](https://twitter.com/kroyrunner89), [Tim Bohen](https://twitter.com/tbohen), and a bunch of guys not named Tim. It was also during this period that I started to think maybe I should change my name to Tim in order to increase my chances of success.
+
+This was late November of 2019, and I decided that if I absorbed what I could from the free videos, and, by 2020, still felt like this was something I was deeply interested in, and believed I could be successful at, I would start investing in my education.
+
+## Diving In
+
+So I started watching everything I could get my eyes and ears on. Instead of coming home after work and immediately putting on Netflix, I’d hop over to YouTube, pull up a Tim Sykes video, and let the algorithm run, trying to keep up, take notes, and do a lot of re-watching to make sure I’d understood something. I subscribed to the [Steady Trade podcast](https://www.steadytrade.com/) and listened to that during my commutes and at the gym. Eventually, everything started sounding familiar, and I realized, as Tim says in several of his videos, this isn’t rocket science. It’s just a few simple rules, carefully followed, paired with a ton of experience, patience, and willingness to be wrong. I could learn the rules on my own, but the experience, that’s not just something I can get from watching a few videos. That requires time, and mentorship.
+
+I pride myself on being an auto-didact. If there’s something I need to learn, or want to, I can find the resources and make it happen. I studied Classics (Latin and Greek) and music composition in college, but when I decided I didn’t want to go to grad school (a requirement for a career in either of those fields) I taught myself how to program, and was able to get an entry level job as a web developer. I’ve continued to learn from job to job, and now make a comfortable living on skills I acquired mostly on my own. I’ve had friends and coworkers who know more than me, who have helped, but never someone I’d call a guide or a mentor. I just never needed it.
+
+Trading is different, I realized, pretty quickly. It’s dangerous, the potential losses are catastrophic, and, since it’s a zero-sum game, you’re up against people who have been at it a lot longer than you when you’re first getting started. So as December continued and I still felt obsessed, I started evaluating the guru/mentor options available.
+
+Pretty quickly I decided on StocksToTrade Pro. First, I’d been using the StocksToTrade demo, and loved the software. Second, Tim Bohen’s path more closely matched what I envisioned mine to be. He already had a family, a mortgage and a job before he really got into trading, and while my wife and I have cats instead of children, I thought I could gain the most learning from someone who started trading part-time while working a fairly demanding job in the tech industry. I’m not in a place where I can leave my job and devote myself full-time to this, but because of my company and my position, my schedule is flexible enough that I could carve out the time for the two STT Pro webinars Tim gives each day.
+
+I also decided I would join Pennystocking Silver. Tim Sykes’ videos on YouTube had been immensely helpful, and everyone I looked to for advice strongly recommended paying the monthly cost for access to *all* of his videos. If anyone is thinking about subscribing, I 100% recommend it. The archives are full of great information and examples, but the new videos, where I can watch Tim talk about how and why he made a trade on a stock I had also been watching, is invaluable education.
+
+## Diving In Further
+
+At the beginning of January, I watched a public webinar Tim Bohen gave on the Stocks to Trade Oracle tool, and at the end of it, he announced a short-running discount on a year of STT Pro, and I decided that was the sign I needed that it was time. I tore through all the introductory videos over the weekend, and was ready for my first live webinar the next Monday.
+
+I had originally thought I would try to start this blog then, and follow Stephen Johnson’s approach of fully documenting his journey, but I very quickly felt too overwhelmed by the firehose of information I’d just unleashed on myself, so I decided I would take a month or two to get my feet back under me, and then try to start from a more stable place. I’m still drinking straight from that firehose, but the month and a half with Tim Bohen has been, literally, life-changing.
+
+I used to be a “hit the snooze button a half a dozen times” sort of guy, because if I rolled into work at 10 AM, no one cared as long as I was getting my work done. Now I’m a “out of bed at 6.30 when the alarm goes off” sort of guy, so I can be in the office by 8.30 to make a watchlist and get a bit of work done before the 9 am STT Pro webinar. And having that routine, and knowing how much time I need to (and want to) put into studying has made me much more organized about how I spend time otherwise, and even after a few weeks I’m feeling the positive effects. I am confident I can become a consistently profitable trader, but in the meantime, just this change in how I spend and organize my time, and the accompanying mental shifts, have been worth the price of admission.
+
+## Now what?
+
+What is this blog going to be? For me, it’s going to be accountability. For the past month [I have been tweeting](https://twitter.com/mikowitztrades) daily with the hashtag `#1percentbetter`, a reference to James Altucher’s idea (via Tim Bohen) that if you work on improving by 1% each day, after 100 days you’re not just 100% better, but, as in investing, you’ve compounded the interest into over 250% (hence the name of this blog)! Knowing I need to make that tweet every day has helped me focus on what I do during the day, so that I have something real to report in that tweet. It’s been incredibly motivational for me on days when, whether work was hard, or I didn't sleep well, or any other reason, I’m not feeling my most motivated
+
+But 280 characters isn’t enough to do more than motivate myself. So that’s what this blog is: a way to keep myself accountable while also having the space to expand on my 1% in the hopes that I can help others who are on the same path as me, and maybe just a few steps behind.
+
+My hope is to have at least one long post a week, and at least a couple shorter ones during the week, in addition to keeping up my `#1percentbetter` tweets. For those of you reading, my hope is also that you find something of value here.
+
+To follow my `#1percentbetter` tweets and learn when this blog updates, click that Twitter link below and join me!
+

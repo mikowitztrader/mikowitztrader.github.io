@@ -24,4 +24,3 @@ My goal with Compounding Self-Interest is to combine these two ideas, with the h
 and thinking deeply about my journey, I can provide insights and encouragement to other traders so that we can each start compounding our own 1% each day.
 
 If you're reading, thank you for joining me, and I hope I can help you along the way.
-

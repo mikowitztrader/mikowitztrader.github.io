@@ -61,7 +61,7 @@ Thanks for reading!
 ---
 ## Context
 
-Because, as I discuss above, Dr. Brett’s lessons can be read in very different ways depending on the mood in which you approach it, it feels important to provide the context in which I read them, and wrote this post. It’s impossible to give a complete accounting of my day, but the three most important elements for me, in determining my mood, are how I slept, what I’m listening to, and, for the purposes of this blog, how I traded during the day.
+Because, as I discuss above, Dr. Brett’s lessons can be read in very different ways depending on the mood in which you approach it, it feels important to provide the context in which I read them, and wrote this post. It’s impossible to give a complete accounting of my day, but the three most important elements for me, in determining my mood, are how I slept, what I’m listening to, and, for the purposes of this blog, how I traded during the day. So, for yesterday, Feb 24, when I wrote the first draft of this post:
 
 ### Sleep
 ~7 hours. Not fully rested after not getting enough sleep this weekend, but not exhausted enough to sour my mood.

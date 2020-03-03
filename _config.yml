@@ -30,6 +30,7 @@ url: "http://mikowitztrader.com" # the base hostname & protocol for your site, e
 twitter_username: mikowitztrader
 profitly_username: mikowitztrader
 # github_username:  jekyll
+google_analytics: UA-159552620-1
 
 # Build settings
 theme: minima

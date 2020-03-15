@@ -1,13 +1,18 @@
 ---
 layout: post
 title: "The Daily Trading Coach: Lesson 3"
+subtitle: Make Friends With Your Weakness
 date: 2020-03-09 12:30:00 -0500
+lesson: 3
 categories: steenbarger daily-trading-coach
 ---
+
 
 In the [last post](http://bit.ly/steenbarger2) I talked about the importance of building a positive relationship with your trading coach, but cautioned that you do not want that coach to be simply a cheerleader. I also talked about the importance of setting positive goals, focusing on continuing and improving good habits, rather than explicitly setting yourself the goal to avoid bad habits. This is an important part of effecting change in yourself: having a positive foundation to build upon.
 
 In today’s lesson we’re going to take a look at this from the other side: being able to work with your weaknesses, since these are the areas where change will show the most overall improvement.
+
+{% include steenbarger.html %}
 
 As a reminder and a note of caution, this blog should not be considered a substitute for reading Dr. Brett Steenbarger’s book: [The Daily Trading Coach](https://amzn.to/2I9rlMQ). Beyond the fact that I am neither a trained psychologist (unlikely to happen) or a successful trader (yet), each lesson contains many nuggets of wisdom, and in this blog series I focus on the ones that resonate most with me as I’m reading and writing. Different parts may strike you more strongly than they do me. If you have not read it, I encourage you to click that link and buy your own copy, read along, and let me know on Twitter what resonates most strongly with you in each lesson. We can all learn not only from Dr. Brett’s words, but from how each of us reacts to them.
 

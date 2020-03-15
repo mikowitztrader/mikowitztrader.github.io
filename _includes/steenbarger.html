@@ -1,0 +1,26 @@
+<div style="margin-left:10px;padding-top:10px;padding-bottom:20px;margin-left:12%;">
+  <hr style="margin-bottom:10px"/>
+  <div style="padding-bottom:10px;">
+  <b>
+    This post is part of a series on Brett Steenbarger's
+    <a href="https://amzn.to/2I9rlMQ">The Daily Trading Coach</a>
+  </b>
+  </div>
+
+{% assign steen_posts = site.posts | sort: 'lesson', 'last' "%}
+
+<ul>
+{% for post in steen_posts %}
+  {% if post.url contains 'steenbarger' %}
+    {% if post.url == page.url %}
+      <li>Lesson {{post.lesson}} - {{post.subtitle}}</li>
+    {% else %}
+      <li><a class="page-link" href="{{ post.url | prepend: site.baseurl }}">Lesson {{post.lesson}} - {{post.subtitle}}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+  <hr/>
+</div>
+

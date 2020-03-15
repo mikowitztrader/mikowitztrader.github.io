@@ -1,13 +1,17 @@
 ---
 layout: post
 title: "The Daily Trading Coach: Lesson 2"
+subtitle: Psychological Visibility and Your Relationship With Your Trading Coach
 date: 2020-03-02 14:10:00 -0500
+lesson: 2
 categories: steenbarger daily-trading-coach
 ---
 
 Welcome back to my series on Brett Steenbarger’s [The Daily Trading Coach: 101 Lessons For Becoming Your Own Trading Psychologist](https://amzn.to/2I9rlMQ). You can read the first post in the series [here](https://bit.ly/steenbarger1).
 
 In the previous post we began with an introduction to the sort of change we want to make in ourselves through coaching, focusing on the importance of attaching emotional weight to our efforts, as a strong emotional reaction is the only true thing that can effect lasting change. In this post we’ll start looking at how your relationship with your coach (in this case, yourself) is vital to forming those emotions in a healthy and productive way.
+
+{% include steenbarger.html %}
 
 ## Lesson 2: Psychological Visibility and Your Relationship With Your Trading Coach
 True self-reflection can be hard. It can also be painful, and for that reason a lot of people avoid it. High-functioning alcoholics can go years before hitting rock-bottom and finally accepting the reality of their addiction. If self-reflection were easy, there’d be no market for therapists and coaches, and no market for Dr. Brett’s book, or this blog.

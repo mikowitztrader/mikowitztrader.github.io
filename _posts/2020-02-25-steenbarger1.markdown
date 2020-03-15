@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "The Daily Trading Coach: Lesson 1"
+subtitle: Draw on Emotion to Become a Change Agent
 date: 2020-02-25 13:07:00 -0500
+lesson: 1
 categories: steenbarger daily-trading-coach
 ---
 
@@ -18,6 +20,8 @@ The first section of the book is called **Change: The Process and the Practice**
 > Coaching is about making change happen, not just letting it happen.
 
 He’s asking us, as the reader, to be an active part of our own journey, rather than a passenger who’s just along for the ride. And he dives right into this idea in the first lesson:
+
+{% include steenbarger.html %}
 
 ## Lesson 1: Draw on Emotion to Become a Change Agent
 

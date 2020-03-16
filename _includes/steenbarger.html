@@ -8,19 +8,35 @@
   </div>
 
 {% assign steen_posts = site.posts | sort: 'lesson', 'last' "%}
-
 <ul>
 {% for post in steen_posts %}
-  {% if post.url contains 'steenbarger' %}
+  {% if post.categories contains 'steenbarger' %}
+    {% if post.url == page.url %}
+      {% assign lesson = post.lesson | plus: 0 %}
+      {% assign prev = lesson | minus: 1 %}
+      {% assign next = lesson | plus: 1 %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% for post in steen_posts %}
+  {% if post.categories contains 'steenbarger' %}
     {% if post.url == page.url %}
       <li>Lesson {{post.lesson}} - {{post.subtitle}}</li>
-    {% else %}
+    {% elsif post.lesson == prev or post.lesson == next %}
       <li><a class="page-link" href="{{ post.url | prepend: site.baseurl }}">Lesson {{post.lesson}} - {{post.subtitle}}</a></li>
     {% endif %}
   {% endif %}
 {% endfor %}
 </ul>
 
+<div style="padding-bottom:10px;">
+<b>
+View all posts in the series <a class="page-link" href="/steenbarger/index.html">here</a>.
+</b></div>
+
   <hr/>
+
 </div>
+
 

@@ -13,7 +13,7 @@ This week, we’re switching from a window into our environments to a mirror int
 
 {% include steenbarger.html %}
 
-### Lesson 6: Find the Right Mirrors
+# Lesson 6: Find the Right Mirrors
 
 The mirror is a simple metaphor for how we view ourselves, and much of that simplicity comes from the basic truth behind it. Because there is more to us than our outward appearance,  we see ourselves reflected not only literal mirrors, but in nearly everything we do. We draw a strong sense of self from our accomplishments and how we effect others and the world around us. When the results we see are positive, our self-worth and confidence increase. When what’s reflected back to us is negative, the opposite occurs.
 
